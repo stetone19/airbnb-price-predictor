@@ -1,4 +1,4 @@
-# 🏠 Airbnb Price Predictor: Data Science Project
+# 🏠 Milan Airbnb Price Predictor: Data Science Project
 
 ## 📌 Panoramica
 Questo progetto analizza i dati di Airbnb per prevedere il prezzo per notte degli alloggi nella città di Milano (Italia). L'obiettivo è identificare quali fattori (posizione, dimensioni, recensioni) influenzano maggiormente il mercato e costruire un modello di Machine Learning per stimare il prezzo corretto.
