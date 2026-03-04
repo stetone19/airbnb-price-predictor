@@ -1,0 +1,13 @@
+# Escludi le cartelle temporanee di Python
+__pycache__/
+*.py[cod]
+
+# Escludi i checkpoint di Jupyter (pesanti e inutili)
+.ipynb_checkpoints
+
+# Escludi i dati pesanti (caricheremo solo il codice, non il CSV da 100MB)
+data/*.csv
+
+# Escludi file di sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
