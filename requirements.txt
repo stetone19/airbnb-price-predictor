@@ -4,5 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
-streamlit
+streamlit>=1.30.0
 joblib
